@@ -1,0 +1,12 @@
+/* Import de Bootstrap's Css
+`yarn add sass -D`
+`yarn add bootstrap` */
+@import 'bootstrap';
+@import '@fortawesome/fontawesome-free/css/all.min.css';
+
+/* Import Fontawesome
+`yarn add @fortawesome/fontawesome-free */
+
+:root {
+  --primary-color: pink;
+}
